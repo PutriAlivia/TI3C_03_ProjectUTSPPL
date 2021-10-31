@@ -1,0 +1,23 @@
+{
+  "name": "ti3c_03_projectutsppl",
+  "version": "1.0.0",
+  "description": "Kelas : TI 3C <br />\r No    : 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hendridaffa/TI3C_03_ProjectUTSPPL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hendridaffa/TI3C_03_ProjectUTSPPL/issues"
+  },
+  "homepage": "https://github.com/Hendridaffa/TI3C_03_ProjectUTSPPL#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
